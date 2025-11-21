@@ -1,18 +1,13 @@
-<!-- Top banner (local file uploaded in this session) -->
-<p align="center">
-  <img src="sandbox:/mnt/data/b1a17542-ddcc-48e7-a38e-ca9382b3c7a3.png" alt="banner" />
-</p>
-
 <h1 align="center">👋 Hi, I'm Ruturaj Pawar</h1>
 
 <p align="center">
-  💼 Backend Developer | Full-Stack Web Developer | Open-Source Contributor  
-  Focused on building scalable systems, production-grade backend services, and real-time applications currently exploring springboot, reactjs, cloud computing and machine learning.
+💼 Backend Developer | Full-Stack Web Developer | Open-Source Contributor  
+Focused on building scalable backend systems & real-time applications.
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,57 +29,65 @@
 ![Git](https://img.shields.io/badge/Git-F05133?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Motia](https://img.shields.io/badge/Motia-6A5ACD?style=for-the-badge) <!-- Motia added as requested -->
+![MotiA](https://img.shields.io/badge/Motia-A020F0?style=for-the-badge)
 
 ---
 
-<!-- Lightning separator (GitHub-safe) -->
-<h3 align="center">⚡️&nbsp;&nbsp;&nbsp;⚡️&nbsp;&nbsp;&nbsp;⚡️</h3>
-
-## 🏅 Badges & Achievements
-
+<!-- Lightning Animated Line -->
 <p align="center">
-  <!-- Each badge is clickable and uniform size (increased slightly) -->
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgtfpgvo002ijj041o6p91u3" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/af7fa991-944f-483a-b4e6-7155bb092cbb" width="140" height="140" alt="lvl2-astronaut"/>
-  </a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgz43lec004sjx0452b67ztl" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/85348cf9-eb14-472d-8956-c1fffd3e224b" width="140" height="140" alt="lvl4-astronaut"/>
-  </a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh03cbyl009mic04lp88zclj" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/9c120566-9579-4f94-84a5-39898e59b7d2" width="140" height="140" alt="lvl5-astronaut"/>
-  </a>
-  <a href="https://www.holopin.io/userbadge/cmha8xd07007okz04jglskw4o" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/2f60b50e-99ed-4aca-b9e2-454fba15d39c" width="140" height="140" alt="badge-4"/>
-  </a>
-  <a href="https://www.holopin.io/userbadge/cmhgfgavy00iji804ell714zd" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/b37846a0-17ff-4167-a6de-3210904d8d2e" width="140" height="140" alt="badge-5"/>
-  </a>
-  <a href="https://www.holopin.io/userbadge/cmh0sovtx0038ie04ie96f63c" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/0aac7ad9-000e-420f-9c40-9c4f5062051e" width="140" height="140" alt="badge-6"/>
-  </a>
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9EE73EECCFDB6D3E973F8F701937CA84B2F505E2BEBE6C62199932782E21249F" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/7d563951-7907-4fa6-a8db-9fa1584afc0e" width="140" height="140" alt="oracle-ai-badge"/>
-  </a>
-  <a href="https://badgr.com/public/assertions/DhR-tcEaQ7q_L6wBVme6cQ" target="_blank" rel="noopener noreferrer">
-    <img src="https://github.com/user-attachments/assets/5550b1e2-1df3-4546-aaa7-697f6345ad42" width="140" height="140" alt="postman-badge"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=4&section=header&reversal=true&animation=fadeIn" width="100%">
 </p>
 
-<!-- Lightning separator repeated -->
-<h3 align="center">⚡️&nbsp;&nbsp;&nbsp;⚡️&nbsp;&nbsp;&nbsp;⚡️</h3>
+<h2 align="center">🏆 Badges & Achievements</h2>
+
+<p align="center">
+
+<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgtfpgvo002ijj041o6p91u3">
+<img src="https://github.com/user-attachments/assets/af7fa991-944f-483a-b4e6-7155bb092cbb" width="165">
+</a>
+
+<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgz43lec004sjx0452b67ztl">
+<img src="https://github.com/user-attachments/assets/85348cf9-eb14-472d-8956-c1fffd3e224b" width="165">
+</a>
+
+<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh03cbyl009mic04lp88zclj">
+<img src="https://github.com/user-attachments/assets/9c120566-9579-4f94-84a5-39898e59b7d2" width="165">
+</a>
+
+<a href="https://www.holopin.io/userbadge/cmha8xd07007okz04jglskw4o">
+<img src="https://github.com/user-attachments/assets/2f60b50e-99ed-4aca-b9e2-454fba15d39c" width="165">
+</a>
+
+<a href="https://www.holopin.io/userbadge/cmhgfgavy00iji804ell714zd">
+<img src="https://github.com/user-attachments/assets/b37846a0-17ff-4167-a6de-3210904d8d2e" width="165">
+</a>
+
+<a href="https://www.holopin.io/userbadge/cmh0sovtx0038ie04ie96f63c">
+<img src="https://github.com/user-attachments/assets/0aac7ad9-000e-420f-9c40-9c4f5062051e" width="165">
+</a>
+
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9EE73EECCFDB6D3E973F8F701937CA84B2F505E2BEBE6C62199932782E21249F">
+<img src="https://github.com/user-attachments/assets/7d563951-7907-4fa6-a8db-9fa1584afc0e" width="220">
+</a>
+
+<a href="https://badges.parchment.com/public/assertions/DhR-tcEaQ7q_L6wBVme6cQ?identity__email=pruturaj3003@gmail.com">
+<img src="https://github.com/user-attachments/assets/5550b1e2-1df3-4546-aaa7-697f6345ad42" width="190">
+</a>
+</p>
+
+<!-- Lightning Animated Line -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=4&section=header&reversal=true&animation=fadeIn" width="100%">
+</p>
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruturaj-pawar-4b84a6277/"><img width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/Ruturaj_Pawar60"><img width="95" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" alt="X"/></a>
-  <a href="https://drive.google.com/file/d/1Kp6GF9L4zWpmSXUqQARP9y6hsFbvMFl7/view?usp=sharing"><img width="120" src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/></a>
+<a href="https://www.linkedin.com/in/ruturaj-pawar-4b84a6277/"><img width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/Ruturaj_Pawar60"><img width="100" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/></a>
+<a href="https://drive.google.com/file/d/1Kp6GF9L4zWpmSXUqQARP9y6hsFbvMFl7/view?usp=sharing"><img width="120" src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
 </p>
-
----
 
 <p align="center">⚡ Always building. Always shipping. ⚡</p>
