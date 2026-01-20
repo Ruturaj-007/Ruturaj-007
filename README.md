@@ -1,93 +1,80 @@
-<h1 align="center">👋 Hi, I'm Ruturaj Pawar</h1>
+<div align="center">
+
+# 👋 Hi, I'm Ruturaj Pawar
+
+### Backend Developer | Full-Stack Engineer | Open-Source Enthusiast
 
 <p align="center">
-💼 Backend Developer | Full-Stack Web Developer | Open-Source Contributor  
-Focused on building scalable backend systems & real-time applications.
+  <a href="https://www.linkedin.com/in/ruturaj-pawar-4b84a6277/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/Ruturaj_Pawar60"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1Kp6GF9L4zWpmSXUqQARP9y6hsFbvMFl7/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4CAF50.svg?logo=googledocs&logoColor=white"/></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Building%20Scalable%20Systems&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+
+</div>
 
 ---
 
-## ⚡ Tech Stack
+## 💫 About Me
 
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-2D3748?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-FF6C37?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Frameworks / Libraries**
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka)
-![NLTK](https://img.shields.io/badge/NLTK-85C217?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=for-the-badge&logo=numpy)
-
-### **Developer Tools**
-![Git](https://img.shields.io/badge/Git-F05133?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MotiA](https://img.shields.io/badge/Motia-A020F0?style=for-the-badge)
+```javascript
+const ruturaj = {
+    location: "Pune, India",
+    education: "MIT WPU | CS | CGPA: 8.37",
+    currentFocus: "Building production-grade backend systems",
+    workingOn: ["AI Workflow Systems","Video Sharing Platform Backend", "Real-time Applications"],
+    learning: ["System Design", "Motia Workflow system", "Complex Frontend"],
+    achievements: ["Hacktoberfest Golden Contributor (Top 10%)", "7+ Merged PRs"],
+    askMeAbout: ["REST APIs", "Database Design", "WebSockets"],
+    funFact: "I turn coffee into code and bugs into features ☕"
+};
+```
 
 ---
 
-<!-- Lightning Animated Line -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=4&section=header&reversal=true&animation=fadeIn" width="100%">
-</p>
+## 🛠️ Tech Stack
 
-<h2 align="center">🏆 Badges & Achievements</h2>
+**Languages**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<p align="center">
+**Frameworks & Libraries**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgtfpgvo002ijj041o6p91u3">
-<img src="https://github.com/user-attachments/assets/af7fa991-944f-483a-b4e6-7155bb092cbb" width="165">
-</a>
-
-<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgz43lec004sjx0452b67ztl">
-<img src="https://github.com/user-attachments/assets/85348cf9-eb14-472d-8956-c1fffd3e224b" width="165">
-</a>
-
-<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh03cbyl009mic04lp88zclj">
-<img src="https://github.com/user-attachments/assets/9c120566-9579-4f94-84a5-39898e59b7d2" width="165">
-</a>
-
-<a href="https://www.holopin.io/userbadge/cmha8xd07007okz04jglskw4o">
-<img src="https://github.com/user-attachments/assets/2f60b50e-99ed-4aca-b9e2-454fba15d39c" width="165">
-</a>
-
-<a href="https://www.holopin.io/userbadge/cmhgfgavy00iji804ell714zd">
-<img src="https://github.com/user-attachments/assets/b37846a0-17ff-4167-a6de-3210904d8d2e" width="165">
-</a>
-
-<a href="https://www.holopin.io/userbadge/cmh0sovtx0038ie04ie96f63c">
-<img src="https://github.com/user-attachments/assets/0aac7ad9-000e-420f-9c40-9c4f5062051e" width="165">
-</a>
-
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9EE73EECCFDB6D3E973F8F701937CA84B2F505E2BEBE6C62199932782E21249F">
-<img src="https://github.com/user-attachments/assets/7d563951-7907-4fa6-a8db-9fa1584afc0e" width="220">
-</a>
-
-<a href="https://badges.parchment.com/public/assertions/DhR-tcEaQ7q_L6wBVme6cQ?identity__email=pruturaj3003@gmail.com">
-<img src="https://github.com/user-attachments/assets/5550b1e2-1df3-4546-aaa7-697f6345ad42" width="190">
-</a>
-</p>
-
-<!-- Lightning Animated Line -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=4&section=header&reversal=true&animation=fadeIn" width="100%">
-</p>
+**Developer Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
 ---
 
-## 🤝 Connect With Me
+## 🏆 Achievements & Certifications
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ruturaj-pawar-4b84a6277/"><img width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/Ruturaj_Pawar60"><img width="100" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/></a>
-<a href="https://drive.google.com/file/d/1Kp6GF9L4zWpmSXUqQARP9y6hsFbvMFl7/view?usp=sharing"><img width="120" src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=googledocs&logoColor=white"/></a>
+<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgz43lec004sjx0452b67ztl"><img src="https://github.com/user-attachments/assets/85348cf9-eb14-472d-8956-c1fffd3e224b" height="120"/></a> 
+<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh03cbyl009mic04lp88zclj"><img src="https://github.com/user-attachments/assets/9c120566-9579-4f94-84a5-39898e59b7d2" height="120"/></a> 
+<a href="https://www.holopin.io/userbadge/cmha8xd07007okz04jglskw4o"><img src="https://github.com/user-attachments/assets/2f60b50e-99ed-4aca-b9e2-454fba15d39c" height="120"/></a> 
+<a href="https://www.holopin.io/userbadge/cmhgfgavy00iji804ell714zd"><img src="https://github.com/user-attachments/assets/b37846a0-17ff-4167-a6de-3210904d8d2e" height="120"/></a> 
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9EE73EECCFDB6D3E973F8F701937CA84B2F505E2BEBE6C62199932782E21249F"><img src="https://github.com/user-attachments/assets/7d563951-7907-4fa6-a8db-9fa1584afc0e" height="120"/></a> 
+<a href="https://badges.parchment.com/public/assertions/DhR-tcEaQ7q_L6wBVme6cQ?identity__email=pruturaj3003@gmail.com"><img src="https://github.com/user-attachments/assets/5550b1e2-1df3-4546-aaa7-697f6345ad42" height="120"/></a>
 </p>
 
-<p align="center">⚡ Always building. Always shipping. ⚡</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
