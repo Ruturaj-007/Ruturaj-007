@@ -62,23 +62,17 @@ const ruturaj = {
 
 ---
 <p align="center">
-<a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmgz43lec004sjx0452b67ztl">
-  <img src="https://github.com/user-attachments/assets/85348cf9-eb14-472d-8956-c1fffd3e224b" height="90"/>
-</a>
 <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh03cbyl009mic04lp88zclj">
-  <img src="https://github.com/user-attachments/assets/9c120566-9579-4f94-84a5-39898e59b7d2" height="90"/>
-</a>
-<a href="https://www.holopin.io/userbadge/cmha8xd07007okz04jglskw4o">
-  <img src="https://github.com/user-attachments/assets/2f60b50e-99ed-4aca-b9e2-454fba15d39c" height="90"/>
+  <img src="https://github.com/user-attachments/assets/9c120566-9579-4f94-84a5-39898e59b7d2" height="140"/>
 </a>
 <a href="https://www.holopin.io/userbadge/cmhgfgavy00iji804ell714zd">
-  <img src="https://github.com/user-attachments/assets/b37846a0-17ff-4167-a6de-3210904d8d2e" height="90"/>
+  <img src="https://github.com/user-attachments/assets/b37846a0-17ff-4167-a6de-3210904d8d2e" height="140"/>
 </a>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9EE73EECCFDB6D3E973F8F701937CA84B2F505E2BEBE6C62199932782E21249F">
-  <img src="https://github.com/user-attachments/assets/7d563951-7907-4fa6-a8db-9fa1584afc0e" height="90"/>
+  <img src="https://github.com/user-attachments/assets/7d563951-7907-4fa6-a8db-9fa1584afc0e" height="140"/>
 </a>
 <a href="https://badges.parchment.com/public/assertions/DhR-tcEaQ7q_L6wBVme6cQ">
-  <img src="https://github.com/user-attachments/assets/5550b1e2-1df3-4546-aaa7-697f6345ad42" height="90"/>
+  <img src="https://github.com/user-attachments/assets/5550b1e2-1df3-4546-aaa7-697f6345ad42" height="140"/>
 </a>
 </p>
 
