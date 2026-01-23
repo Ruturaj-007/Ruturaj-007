@@ -66,7 +66,7 @@ const ruturaj = {
   <img src="https://github.com/user-attachments/assets/9c120566-9579-4f94-84a5-39898e59b7d2" height="140"/>
 </a>
 <a href="https://www.holopin.io/userbadge/cmhgfgavy00iji804ell714zd">
-  <img src="https://github.com/user-attachments/assets/b37846a0-17ff-4167-a6de-3210904d8d2e" height="140"/>
+  <img src="https://github.com/user-attachments/assets/b37846a0-17ff-4167-a6de-3210904d8d2e" height="135"/>
 </a>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9EE73EECCFDB6D3E973F8F701937CA84B2F505E2BEBE6C62199932782E21249F">
   <img src="https://github.com/user-attachments/assets/7d563951-7907-4fa6-a8db-9fa1584afc0e" height="140"/>
