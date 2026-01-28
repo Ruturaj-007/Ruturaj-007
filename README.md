@@ -5,10 +5,20 @@
 ### Backend Developer | Full-Stack Engineer | Open-Source Enthusiast
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruturaj-pawar-4b84a6277/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/Ruturaj_Pawar60"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1qW8ujsEMmz4RLZfW1QxMQp_ai_iWvIV9/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4CAF50.svg?logo=googledocs&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ruturaj-pawar-4b84a6277/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/Ruturaj_Pawar60">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
+  </a>
+  <a href="https://hashnode.com/@dev-rutu">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1qW8ujsEMmz4RLZfW1QxMQp_ai_iWvIV9/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-4CAF50.svg?logo=googledocs&logoColor=white"/>
+  </a>
 </p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Building%20Scalable%20Systems&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
