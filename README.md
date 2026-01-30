@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/ruturaj-pawar-4b84a6277/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://x.com/Ruturaj_Pawar60">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/>
-  </a>
   <a href="https://hashnode.com/@dev-rutu">
     <img src="https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white"/>
   </a>
