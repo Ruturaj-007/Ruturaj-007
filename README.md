@@ -28,12 +28,11 @@
 ```javascript
 const ruturaj = {
     location: "Pune, India",
-    education: "MIT WPU | CS | CGPA: 8.37",
     currentFocus: "Building production-grade backend systems",
-    workingOn: ["AI Workflow Systems","Video Sharing Platform Backend", "Real-time Applications"],
-    learning: ["System Design", "Motia Workflow system", "Complex Frontend"],
+    workingOn: ["Anonymous messaging Platform", "AI Integrated SAAS Apps", "Real-time Applications"],
+    learning: ["System Design", "Solana", "Motia Workflow system"],
     achievements: ["Hacktoberfest Golden Contributor (Top 10%)", "7+ Merged PRs"],
-    askMeAbout: ["REST APIs", "Database Design", "WebSockets"],
+    askMeAbout: ["WebSockets", "REST APIs", "Database Design", "Junit Testing"],
     funFact: "I turn coffee into code and bugs into features ☕"
 };
 ```
@@ -43,8 +42,9 @@ const ruturaj = {
 ## 🛠️ Tech Stack
 
 **Languages**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -69,20 +69,22 @@ const ruturaj = {
 
 ---
 <p align="center">
+<a href="#">
+  <img src="https://github.com/user-attachments/assets/d2d04607-93c5-4160-b5a6-dee9a38e226c" height="150"/>
+</a>
 <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh03cbyl009mic04lp88zclj">
-  <img src="https://github.com/user-attachments/assets/9c120566-9579-4f94-84a5-39898e59b7d2" height="140"/>
+  <img src="https://github.com/user-attachments/assets/9c120566-9579-4f94-84a5-39898e59b7d2" height="155"/>
 </a>
 <a href="https://www.holopin.io/userbadge/cmhgfgavy00iji804ell714zd">
-  <img src="https://github.com/user-attachments/assets/b37846a0-17ff-4167-a6de-3210904d8d2e" height="135"/>
+  <img src="https://github.com/user-attachments/assets/b37846a0-17ff-4167-a6de-3210904d8d2e" height="150"/>
 </a>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9EE73EECCFDB6D3E973F8F701937CA84B2F505E2BEBE6C62199932782E21249F">
-  <img src="https://github.com/user-attachments/assets/7d563951-7907-4fa6-a8db-9fa1584afc0e" height="140"/>
+  <img src="https://github.com/user-attachments/assets/7d563951-7907-4fa6-a8db-9fa1584afc0e" height="150"/>
 </a>
 <a href="https://badges.parchment.com/public/assertions/DhR-tcEaQ7q_L6wBVme6cQ">
-  <img src="https://github.com/user-attachments/assets/5550b1e2-1df3-4546-aaa7-697f6345ad42" height="140"/>
+  <img src="https://github.com/user-attachments/assets/5550b1e2-1df3-4546-aaa7-697f6345ad42" height="150"/>
 </a>
 </p>
-
 
 <div align="center">
 
