@@ -70,19 +70,19 @@ const ruturaj = {
 ---
 <p align="center">
 <a href="#">
-  <img src="https://github.com/user-attachments/assets/d2d04607-93c5-4160-b5a6-dee9a38e226c" height="150"/>
+  <img src="https://github.com/user-attachments/assets/d2d04607-93c5-4160-b5a6-dee9a38e226c" height="140"/>
 </a>
 <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh03cbyl009mic04lp88zclj">
-  <img src="https://github.com/user-attachments/assets/9c120566-9579-4f94-84a5-39898e59b7d2" height="155"/>
+  <img src="https://github.com/user-attachments/assets/9c120566-9579-4f94-84a5-39898e59b7d2" height="143"/>
 </a>
 <a href="https://www.holopin.io/userbadge/cmhgfgavy00iji804ell714zd">
-  <img src="https://github.com/user-attachments/assets/b37846a0-17ff-4167-a6de-3210904d8d2e" height="150"/>
+  <img src="https://github.com/user-attachments/assets/b37846a0-17ff-4167-a6de-3210904d8d2e" height="140"/>
 </a>
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9EE73EECCFDB6D3E973F8F701937CA84B2F505E2BEBE6C62199932782E21249F">
-  <img src="https://github.com/user-attachments/assets/7d563951-7907-4fa6-a8db-9fa1584afc0e" height="150"/>
+  <img src="https://github.com/user-attachments/assets/7d563951-7907-4fa6-a8db-9fa1584afc0e" height="140"/>
 </a>
 <a href="https://badges.parchment.com/public/assertions/DhR-tcEaQ7q_L6wBVme6cQ">
-  <img src="https://github.com/user-attachments/assets/5550b1e2-1df3-4546-aaa7-697f6345ad42" height="150"/>
+  <img src="https://github.com/user-attachments/assets/5550b1e2-1df3-4546-aaa7-697f6345ad42" height="140"/>
 </a>
 </p>
 
