@@ -16,20 +16,8 @@
   </a>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A3C,100:FF5DA2&height=180&section=header&text=Building%20Scalable%20Systems&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<img
-  src="https://capsule-render.vercel.app/api
-  ?type=waving
-  &color=0:FF9A3C,100:FF5DA2
-  &height=180
-  &section=header
-  &text=Building%20Scalable%20Systems
-  &fontSize=42
-  &fontColor=FFFFFF
-  &animation=twinkling
-  &fontAlignY=32"
-  width="100%"
-/>
 
 </div>
 
@@ -100,14 +88,6 @@ const ruturaj = {
 
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api
-  ?type=waving
-  &color=0:FF9A3C,100:FF5DA2
-  &height=120
-  &section=footer
-  &animation=twinkling"
-  width="100%"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A3C,100:FF5DA2&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
