@@ -29,11 +29,12 @@
 const ruturaj = {
     location: "Pune, India",
     currentFocus: "Building production-grade backend systems",
-    workingOn: ["Anonymous messaging Platform", "AI Integrated SAAS Apps", "Real-time Applications"],
-    learning: ["System Design", "Solana", "Motia Workflow system"],
+    workingOn: ["Anonymous Messaging Platform", "AI-Integrated SaaS Applications", "Real-time Applications"],
+    askMeAbout: ["WebSockets", "REST APIs", "Database Design", "JUnit Testing"],
+    learning: ["Solana Program Architecture", "System Design", "Workflow Orchestration (Motia)", "Scalable Backend Infrastructure"],
     achievements: ["Hacktoberfest Golden Contributor (Top 10%)", "7+ Merged PRs"],
     askMeAbout: ["WebSockets", "REST APIs", "Database Design", "Junit Testing"],
-    funFact: "I turn coffee into code and bugs into features ☕"
+    funFact: "When I'm not programming I'm Meditating to fix bugs of upcoming project"
 };
 ```
 
