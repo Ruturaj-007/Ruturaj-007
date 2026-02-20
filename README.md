@@ -31,10 +31,9 @@ const ruturaj = {
     currentFocus: "Building production-grade backend systems",
     workingOn: ["Anonymous Messaging Platform", "AI-Integrated SaaS Applications", "Real-time Applications"],
     askMeAbout: ["WebSockets", "REST APIs", "Database Design", "JUnit Testing"],
-    learning: ["Solana Program Architecture", "System Design", "Workflow Orchestration (Motia)", "Scalable Backend Infrastructure"],
+    learning: ["System Design", "High-Throughput Backend Systems", "Workflow Orchestration (Motia)", "Solana Program Architecture"],
     achievements: ["Hacktoberfest Golden Contributor (Top 10%)", "7+ Merged PRs"],
-    askMeAbout: ["WebSockets", "REST APIs", "Database Design", "Junit Testing"],
-    funFact: "When I'm not programming I'm Meditating to fix bugs of upcoming project"
+    funFact: "When I'm not programming, I meditate and plan the next system to build"
 };
 ```
 
