@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ruturaj Pawar
 
-### Backend Developer | Full-Stack Engineer | Open-Source Enthusiast
+### Backend Developer | Full-Stack Engineer | Contributing to JPF Team
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ruturaj-pawar-4b84a6277/">
