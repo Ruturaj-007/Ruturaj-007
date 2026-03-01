@@ -11,7 +11,7 @@
   <a href="https://hashnode.com/@dev-rutu">
     <img src="https://img.shields.io/badge/Hashnode-2962FF.svg?logo=hashnode&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1qW8ujsEMmz4RLZfW1QxMQp_ai_iWvIV9/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1ZXO6cE4VaVfIOinvYZYZALNMRv3JYP7p/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-4CAF50.svg?logo=googledocs&logoColor=white"/>
   </a>
 </p>
